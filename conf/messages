@@ -109,6 +109,9 @@ eoricheck.title = Registering an EORI number
 eoricheck.p1 = This is the EORI number that is registered to your Government Gateway ID. This number is usually the same as your XI EORI number, XI234513513536.
 eoricheck.legend = Is the EORI number you want to register {0}?
 eoricheck.error.required = Select yes if this is the EORI number you want to register
+xieoricheck.p1 = This is the EORI number that is registered to your Government Gateway ID.
+xieoricheck.p2 = This is the same as and linked with any XI EORI number you may also have. That means that if you have GB123456123456, the XI version of it would be XI123456123456.
+
 
 incorrectEori.title = Sign out
 incorrectEori.p1 = To use this service with another EORI number, sign out, and then sign in with a different Government Gateway ID.
